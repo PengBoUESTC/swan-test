@@ -1,0 +1,10 @@
+<!-- index.swan -->
+<view class="container">
+    <view class="logo">
+    </view>
+    <view class="userinfo">
+
+        <button bindtap="handleGo"> go back </button>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,25 @@
+{
+    "appid": "17767960",
+    "setting": {
+        "urlCheck": true
+    },
+    "compilation-args": {
+        "common": {
+            "enhance": true,
+            "quickPreview": true
+        },
+        "forceChanged": {}
+    },
+    "project-create-info": {
+        "dev-tool-version": "4.18.1",
+        "date": "7/10/2023"
+    },
+    "host": "baiduboxapp",
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.700.3",
+            "extensionJsVersion": "1.21.2"
+        }
+    },
+    "projectname": "program"
+}
